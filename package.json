@@ -1,0 +1,26 @@
+{
+  "name": "synchronize-helpers",
+  "version": "0.0.0",
+  "description": "A module providing commonly used helpers for synchronize.js callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixmaxhq/synchronize-helpers.git"
+  },
+  "keywords": [
+    "synchronize"
+  ],
+  "author": "Trey Tacon <trey@mixmax.com> (https://mixmax.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mixmaxhq/synchronize-helpers/issues"
+  },
+  "homepage": "https://github.com/mixmaxhq/synchronize-helpers#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
