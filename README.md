@@ -1,5 +1,7 @@
 ## synchronize-helpers
 
+[![Build Status](https://travis-ci.org/mixmaxhq/synchronize-helpers.svg?branch=master)](https://travis-ci.org/mixmaxhq/synchronize-helpers)
+
 This module provides helpers for wrapping `sync.defer()` for `synchronize.js`.
 `wrapException` is used to ensure that we won't throw an exception in a
 `sync.parallel` block which would otherwise halt processing of the block.
