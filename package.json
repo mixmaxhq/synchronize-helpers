@@ -1,6 +1,6 @@
 {
   "name": "synchronize-helpers",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A module providing commonly used helpers for synchronize.js callbacks",
   "main": "index.js",
   "scripts": {
