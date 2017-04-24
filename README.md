@@ -11,6 +11,11 @@ vs try/catch which can be useful if in a `sync.parallel` block where we
 expect certain errors can occur).
 
 ## Install
+
+```
+$ yarn add synchronize-helpers
+```
+or
 ```
 $ npm install synchronize-helpers --save
 ```
