@@ -13,7 +13,7 @@ expect certain errors can occur).
 ## Install
 
 ```
-$ yarn add synchronize-helpers
+$ npm install synchronize-helpers
 ```
 or
 ```
